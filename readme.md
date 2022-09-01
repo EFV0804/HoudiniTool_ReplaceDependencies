@@ -7,3 +7,6 @@ The pre_render() and post_render() can be called in Prism state manager before a
 
 ### houdini_rs_override_textures.py
 This script retrieves all Redshift texture paths and create a overrides.txt that can be used with the REDSHIFT_PATHOVERRIDE_FILE [environment variable](https://docs.redshift3d.com/display/RSDOCS/Intro+to+Proxies).
+
+## Credits
+- [MenhirFX](www.menhirfx.com)
